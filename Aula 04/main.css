@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+h2{
+    color: green;
+}
+
+#sports{
+    color: gold;
+}
+#economy{
+    color: solid gray;
+}
+
+.creation-date{
+    color: solid gray;
+}
+*{
+   box-sizing: border-box;
+}
